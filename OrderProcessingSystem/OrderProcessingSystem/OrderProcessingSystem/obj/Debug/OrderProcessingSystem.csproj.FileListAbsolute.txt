@@ -1,0 +1,5 @@
+C:\Users\maaa7\OneDrive\Desktop\New folder\OrderProcessingSystem\OrderProcessingSystem\OrderProcessingSystem\OrderProcessingSystem\obj\Debug\OrderProcessingSystem.csproj.AssemblyReference.cache
+C:\Users\maaa7\OneDrive\Desktop\New folder\OrderProcessingSystem\OrderProcessingSystem\OrderProcessingSystem\OrderProcessingSystem\obj\Debug\OrderProcessingSystem.Form1.resources
+C:\Users\maaa7\OneDrive\Desktop\New folder\OrderProcessingSystem\OrderProcessingSystem\OrderProcessingSystem\OrderProcessingSystem\obj\Debug\OrderProcessingSystem.Properties.Resources.resources
+C:\Users\maaa7\OneDrive\Desktop\New folder\OrderProcessingSystem\OrderProcessingSystem\OrderProcessingSystem\OrderProcessingSystem\obj\Debug\OrderProcessingSystem.csproj.GenerateResource.cache
+C:\Users\maaa7\OneDrive\Desktop\New folder\OrderProcessingSystem\OrderProcessingSystem\OrderProcessingSystem\OrderProcessingSystem\obj\Debug\OrderProcessingSystem.csproj.CoreCompileInputs.cache

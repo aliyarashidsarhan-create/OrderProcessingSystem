@@ -12,6 +12,7 @@ namespace OrderProcessingSystem
 {
     public partial class Form1 : Form
     {
+        Order order1 = new Order(1);
         public Form1()
         {
             InitializeComponent();
@@ -34,6 +35,40 @@ namespace OrderProcessingSystem
             order.ProcessOrder();
 
             MessageBox.Show("Order Processed Successfully");
+        }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btnAddItem_Click(object sender, EventArgs e)
+        {
+            string name = txtName.Text;
+            double price = Convert.ToDouble(txtPrice.Text);
+            int quantity = Convert.ToInt32(txtQuantity.Text);
+
+            OrderItem item = new OrderItem(name, price, quantity);
+
+            order1.AddProduct(item);
+
+            lstOrder.Items.Add(name + " - " + quantity + " x " + price);
+
+            MessageBox.Show("Item Added");
+        }
+
+        private void btnTotal_Click(object sender, EventArgs e)
+        {
+            double total = order1.CalculateTotalPrice();
+
+            MessageBox.Show("Total Price = " + total);
+        }
+
+        private void btnClear_Click(object sender, EventArgs e)
+        {
+            txtName.Clear();
+            txtPrice.Clear();
+            txtQuantity.Clear();
         }
     }
 }
