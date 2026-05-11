@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\shaha\\OneDrive\\Desktop\\Full.stack.developer\\Back-End\\solutions\\OrderProcessingSystem\\OrderProcessingSystem\\OrderProcessingSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{29D826E1-E0B2-4448-AB65-2EB1F4066319}|OrderProcessingSystem\\OrderProcessingSystem.csproj|c:\\users\\shaha\\onedrive\\desktop\\full.stack.developer\\back-end\\solutions\\orderprocessingsystem\\orderprocessingsystem\\orderprocessingsystem\\orderprocessingsystem\\payments\\paypalpayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29D826E1-E0B2-4448-AB65-2EB1F4066319}|OrderProcessingSystem\\OrderProcessingSystem.csproj|solutionrelative:orderprocessingsystem\\payments\\paypalpayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29D826E1-E0B2-4448-AB65-2EB1F4066319}|OrderProcessingSystem\\OrderProcessingSystem.csproj|c:\\users\\shaha\\onedrive\\desktop\\full.stack.developer\\back-end\\solutions\\orderprocessingsystem\\orderprocessingsystem\\orderprocessingsystem\\orderprocessingsystem\\payments\\creditcardpayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29D826E1-E0B2-4448-AB65-2EB1F4066319}|OrderProcessingSystem\\OrderProcessingSystem.csproj|solutionrelative:orderprocessingsystem\\payments\\creditcardpayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29D826E1-E0B2-4448-AB65-2EB1F4066319}|OrderProcessingSystem\\OrderProcessingSystem.csproj|c:\\users\\shaha\\onedrive\\desktop\\full.stack.developer\\back-end\\solutions\\orderprocessingsystem\\orderprocessingsystem\\orderprocessingsystem\\orderprocessingsystem\\payments\\cashpayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29D826E1-E0B2-4448-AB65-2EB1F4066319}|OrderProcessingSystem\\OrderProcessingSystem.csproj|solutionrelative:orderprocessingsystem\\payments\\cashpayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29D826E1-E0B2-4448-AB65-2EB1F4066319}|OrderProcessingSystem\\OrderProcessingSystem.csproj|c:\\users\\shaha\\onedrive\\desktop\\full.stack.developer\\back-end\\solutions\\orderprocessingsystem\\orderprocessingsystem\\orderprocessingsystem\\orderprocessingsystem\\interfaces\\ipayable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29D826E1-E0B2-4448-AB65-2EB1F4066319}|OrderProcessingSystem\\OrderProcessingSystem.csproj|solutionrelative:orderprocessingsystem\\interfaces\\ipayable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29D826E1-E0B2-4448-AB65-2EB1F4066319}|OrderProcessingSystem\\OrderProcessingSystem.csproj|c:\\users\\shaha\\onedrive\\desktop\\full.stack.developer\\back-end\\solutions\\orderprocessingsystem\\orderprocessingsystem\\orderprocessingsystem\\orderprocessingsystem\\payments\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29D826E1-E0B2-4448-AB65-2EB1F4066319}|OrderProcessingSystem\\OrderProcessingSystem.csproj|solutionrelative:orderprocessingsystem\\payments\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PaypalPayment.cs",
+              "DocumentMoniker": "C:\\Users\\shaha\\OneDrive\\Desktop\\Full.stack.developer\\Back-End\\solutions\\OrderProcessingSystem\\OrderProcessingSystem\\OrderProcessingSystem\\OrderProcessingSystem\\Payments\\PaypalPayment.cs",
+              "RelativeDocumentMoniker": "OrderProcessingSystem\\Payments\\PaypalPayment.cs",
+              "ToolTip": "C:\\Users\\shaha\\OneDrive\\Desktop\\Full.stack.developer\\Back-End\\solutions\\OrderProcessingSystem\\OrderProcessingSystem\\OrderProcessingSystem\\OrderProcessingSystem\\Payments\\PaypalPayment.cs",
+              "RelativeToolTip": "OrderProcessingSystem\\Payments\\PaypalPayment.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAuwA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T10:11:01.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CreditCardPayment.cs",
+              "DocumentMoniker": "C:\\Users\\shaha\\OneDrive\\Desktop\\Full.stack.developer\\Back-End\\solutions\\OrderProcessingSystem\\OrderProcessingSystem\\OrderProcessingSystem\\OrderProcessingSystem\\Payments\\CreditCardPayment.cs",
+              "RelativeDocumentMoniker": "OrderProcessingSystem\\Payments\\CreditCardPayment.cs",
+              "ToolTip": "C:\\Users\\shaha\\OneDrive\\Desktop\\Full.stack.developer\\Back-End\\solutions\\OrderProcessingSystem\\OrderProcessingSystem\\OrderProcessingSystem\\OrderProcessingSystem\\Payments\\CreditCardPayment.cs",
+              "RelativeToolTip": "OrderProcessingSystem\\Payments\\CreditCardPayment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T10:10:43.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CashPayment.cs",
+              "DocumentMoniker": "C:\\Users\\shaha\\OneDrive\\Desktop\\Full.stack.developer\\Back-End\\solutions\\OrderProcessingSystem\\OrderProcessingSystem\\OrderProcessingSystem\\OrderProcessingSystem\\Payments\\CashPayment.cs",
+              "RelativeDocumentMoniker": "OrderProcessingSystem\\Payments\\CashPayment.cs",
+              "ToolTip": "C:\\Users\\shaha\\OneDrive\\Desktop\\Full.stack.developer\\Back-End\\solutions\\OrderProcessingSystem\\OrderProcessingSystem\\OrderProcessingSystem\\OrderProcessingSystem\\Payments\\CashPayment.cs",
+              "RelativeToolTip": "OrderProcessingSystem\\Payments\\CashPayment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T10:10:27.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Payment.cs",
+              "DocumentMoniker": "C:\\Users\\shaha\\OneDrive\\Desktop\\Full.stack.developer\\Back-End\\solutions\\OrderProcessingSystem\\OrderProcessingSystem\\OrderProcessingSystem\\OrderProcessingSystem\\Payments\\Payment.cs",
+              "RelativeDocumentMoniker": "OrderProcessingSystem\\Payments\\Payment.cs",
+              "ToolTip": "C:\\Users\\shaha\\OneDrive\\Desktop\\Full.stack.developer\\Back-End\\solutions\\OrderProcessingSystem\\OrderProcessingSystem\\OrderProcessingSystem\\OrderProcessingSystem\\Payments\\Payment.cs",
+              "RelativeToolTip": "OrderProcessingSystem\\Payments\\Payment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T10:10:04.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IPayable.cs",
+              "DocumentMoniker": "C:\\Users\\shaha\\OneDrive\\Desktop\\Full.stack.developer\\Back-End\\solutions\\OrderProcessingSystem\\OrderProcessingSystem\\OrderProcessingSystem\\OrderProcessingSystem\\Interfaces\\IPayable.cs",
+              "RelativeDocumentMoniker": "OrderProcessingSystem\\Interfaces\\IPayable.cs",
+              "ToolTip": "C:\\Users\\shaha\\OneDrive\\Desktop\\Full.stack.developer\\Back-End\\solutions\\OrderProcessingSystem\\OrderProcessingSystem\\OrderProcessingSystem\\OrderProcessingSystem\\Interfaces\\IPayable.cs",
+              "RelativeToolTip": "OrderProcessingSystem\\Interfaces\\IPayable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T10:09:01.805Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
